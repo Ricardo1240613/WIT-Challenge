@@ -1,0 +1,4 @@
+com\wit\rest\controller\CalculatorController.class
+com\wit\rest\kafka\KafkaProducerService.class
+com\wit\rest\service\CalculatorFacade.class
+com\wit\rest\RestApplication.class

@@ -1,0 +1,5 @@
+com\wit\calculator\config\KafkaConsumerConfig.class
+com\wit\calculator\kafka\KafkaConsumerService.class
+com\wit\calculator\CalculatorApplication.class
+com\wit\calculator\kafka\KafkaConsumerService$1.class
+com\wit\calculator\service\CalculatorService.class
